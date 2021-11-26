@@ -1,0 +1,792 @@
+[
+  {
+    "Manufacturer": "Manufacturer",
+    "Model": "Model",
+    "KM": 0
+  },
+  {
+    "Manufacturer": "Acura",
+    "Model": "Integra",
+    "KM": 16.919
+  },
+  {
+    "Manufacturer": "Acura",
+    "Model": "TL",
+    "KM": 39.384
+  },
+  {
+    "Manufacturer": "Acura",
+    "Model": "CL",
+    "KM": 14.114
+  },
+  {
+    "Manufacturer": "Acura",
+    "Model": "RL",
+    "KM": 8.588
+  },
+  {
+    "Manufacturer": "Audi",
+    "Model": "A4",
+    "KM": 20.397
+  },
+  {
+    "Manufacturer": "Audi",
+    "Model": "A6",
+    "KM": 18.78
+  },
+  {
+    "Manufacturer": "Audi",
+    "Model": "A8",
+    "KM": 1.38
+  },
+  {
+    "Manufacturer": "BMW",
+    "Model": "323i",
+    "KM": 19.747
+  },
+  {
+    "Manufacturer": "BMW",
+    "Model": "328i",
+    "KM": 9.231
+  },
+  {
+    "Manufacturer": "BMW",
+    "Model": "528i",
+    "KM": 17.527
+  },
+  {
+    "Manufacturer": "Buick",
+    "Model": "Century",
+    "KM": 91.561
+  },
+  {
+    "Manufacturer": "Buick",
+    "Model": "Regal",
+    "KM": 39.35
+  },
+  {
+    "Manufacturer": "Buick",
+    "Model": "Park Avenue",
+    "KM": 27.851
+  },
+  {
+    "Manufacturer": "Buick",
+    "Model": "LeSabre",
+    "KM": 83.257
+  },
+  {
+    "Manufacturer": "Cadillac",
+    "Model": "DeVille",
+    "KM": 63.729
+  },
+  {
+    "Manufacturer": "Cadillac",
+    "Model": "Seville",
+    "KM": 15.943
+  },
+  {
+    "Manufacturer": "Cadillac",
+    "Model": "Eldorado",
+    "KM": 6.536
+  },
+  {
+    "Manufacturer": "Cadillac",
+    "Model": "Catera",
+    "KM": 11.185
+  },
+  {
+    "Manufacturer": "Cadillac",
+    "Model": "Escalade",
+    "KM": 14.785
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Cavalier",
+    "KM": 145.519
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Malibu",
+    "KM": 135.126
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Lumina",
+    "KM": 24.629
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Monte Carlo",
+    "KM": 42.593
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Camaro",
+    "KM": 26.402
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Corvette",
+    "KM": 17.947
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Prizm",
+    "KM": 32.299
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Metro",
+    "KM": 21.855
+  },
+  {
+    "Manufacturer": "Chevrolet",
+    "Model": "Impala",
+    "KM": 107.995
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Model": "Sebring Coupe",
+    "KM": 7.854
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Model": "Sebring Conv.",
+    "KM": 32.775
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Model": "Concorde",
+    "KM": 31.148
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Model": "Cirrus",
+    "KM": 32.306
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Model": "LHS",
+    "KM": 13.462
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Model": "Town & Country",
+    "KM": 53.48
+  },
+  {
+    "Manufacturer": "Chrysler",
+    "Model": "300M",
+    "KM": 30.696
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Neon",
+    "KM": 76.034
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Avenger",
+    "KM": 4.734
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Stratus",
+    "KM": 71.186
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Intrepid",
+    "KM": 88.028
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Viper",
+    "KM": 0.916
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Pickup",
+    "KM": 227.061
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Wagon",
+    "KM": 16.767
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Ram Van",
+    "KM": 31.038
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Dakota",
+    "KM": 111.313
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Durango",
+    "KM": 101.323
+  },
+  {
+    "Manufacturer": "Dodge",
+    "Model": "Caravan",
+    "KM": 181.749
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Escort",
+    "KM": 70.227
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Mustang",
+    "KM": 113.369
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Contour",
+    "KM": 35.068
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Taurus",
+    "KM": 245.815
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Focus",
+    "KM": 175.67
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Crown Victoria",
+    "KM": 63.403
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Explorer",
+    "KM": 276.747
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Windstar",
+    "KM": 155.787
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Expedition",
+    "KM": 125.338
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "Ranger",
+    "KM": 220.65
+  },
+  {
+    "Manufacturer": "Ford",
+    "Model": "F-Series",
+    "KM": 540.561
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Civic",
+    "KM": 199.685
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Accord",
+    "KM": 230.902
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "CR-V",
+    "KM": 73.203
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Passport",
+    "KM": 12.855
+  },
+  {
+    "Manufacturer": "Honda",
+    "Model": "Odyssey",
+    "KM": 76.029
+  },
+  {
+    "Manufacturer": "Hyundai",
+    "Model": "Accent",
+    "KM": 41.184
+  },
+  {
+    "Manufacturer": "Hyundai",
+    "Model": "Elantra",
+    "KM": 66.692
+  },
+  {
+    "Manufacturer": "Hyundai",
+    "Model": "Sonata",
+    "KM": 29.45
+  },
+  {
+    "Manufacturer": "Infiniti",
+    "Model": "I30",
+    "KM": 23.713
+  },
+  {
+    "Manufacturer": "Jaguar",
+    "Model": "S-Type",
+    "KM": 15.467
+  },
+  {
+    "Manufacturer": "Jeep",
+    "Model": "Wrangler",
+    "KM": 55.557
+  },
+  {
+    "Manufacturer": "Jeep",
+    "Model": "Cherokee",
+    "KM": 80.556
+  },
+  {
+    "Manufacturer": "Jeep",
+    "Model": "Grand Cherokee",
+    "KM": 157.04
+  },
+  {
+    "Manufacturer": "Lexus",
+    "Model": "ES300",
+    "KM": 24.072
+  },
+  {
+    "Manufacturer": "Lexus",
+    "Model": "GS300",
+    "KM": 12.698
+  },
+  {
+    "Manufacturer": "Lexus",
+    "Model": "GS400",
+    "KM": 3.334
+  },
+  {
+    "Manufacturer": "Lexus",
+    "Model": "LS400",
+    "KM": 6.375
+  },
+  {
+    "Manufacturer": "Lexus",
+    "Model": "LX470",
+    "KM": 9.126
+  },
+  {
+    "Manufacturer": "Lexus",
+    "Model": "RX300",
+    "KM": 51.238
+  },
+  {
+    "Manufacturer": "Lincoln",
+    "Model": "Continental",
+    "KM": 13.798
+  },
+  {
+    "Manufacturer": "Lincoln",
+    "Model": "Town car",
+    "KM": 48.911
+  },
+  {
+    "Manufacturer": "Lincoln",
+    "Model": "Navigator",
+    "KM": 22.925
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Model": "Mirage",
+    "KM": 26.232
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Model": "Eclipse",
+    "KM": 42.541
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Model": "Galant",
+    "KM": 55.616
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Model": "Diamante",
+    "KM": 5.711
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Model": "3000GT",
+    "KM": 0.11
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Model": "Montero",
+    "KM": 11.337
+  },
+  {
+    "Manufacturer": "Mitsubishi",
+    "Model": "Montero Sport",
+    "KM": 39.348
+  },
+  {
+    "Manufacturer": "Mercury",
+    "Model": "Mystique",
+    "KM": 14.351
+  },
+  {
+    "Manufacturer": "Mercury",
+    "Model": "Cougar",
+    "KM": 26.529
+  },
+  {
+    "Manufacturer": "Mercury",
+    "Model": "Sable",
+    "KM": 67.956
+  },
+  {
+    "Manufacturer": "Mercury",
+    "Model": "Grand Marquis",
+    "KM": 81.174
+  },
+  {
+    "Manufacturer": "Mercury",
+    "Model": "Mountaineer",
+    "KM": 27.609
+  },
+  {
+    "Manufacturer": "Mercury",
+    "Model": "Villager",
+    "KM": 20.38
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "C-Class",
+    "KM": 18.392
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "E-Class",
+    "KM": 27.602
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "S-Class",
+    "KM": 16.774
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "SL-Class",
+    "KM": 3.311
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "SLK",
+    "KM": 7.998
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "SLK230",
+    "KM": 1.526
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "CLK Coupe",
+    "KM": 11.592
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "CL500",
+    "KM": 0.954
+  },
+  {
+    "Manufacturer": "Mercedes-B",
+    "Model": "M-Class",
+    "KM": 28.976
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Model": "Sentra",
+    "KM": 42.643
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Model": "Altima",
+    "KM": 88.094
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Model": "Maxima",
+    "KM": 79.853
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Model": "Quest",
+    "KM": 27.308
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Model": "Pathfinder",
+    "KM": 42.574
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Model": "Xterra",
+    "KM": 54.158
+  },
+  {
+    "Manufacturer": "Nissan",
+    "Model": "Frontier",
+    "KM": 65.005
+  },
+  {
+    "Manufacturer": "Oldsmobile",
+    "Model": "Cutlass",
+    "KM": 1.112
+  },
+  {
+    "Manufacturer": "Oldsmobile",
+    "Model": "Intrigue",
+    "KM": 38.554
+  },
+  {
+    "Manufacturer": "Oldsmobile",
+    "Model": "Alero",
+    "KM": 80.255
+  },
+  {
+    "Manufacturer": "Oldsmobile",
+    "Model": "Aurora",
+    "KM": 14.69
+  },
+  {
+    "Manufacturer": "Oldsmobile",
+    "Model": "Bravada",
+    "KM": 20.017
+  },
+  {
+    "Manufacturer": "Oldsmobile",
+    "Model": "Silhouette",
+    "KM": 24.361
+  },
+  {
+    "Manufacturer": "Plymouth",
+    "Model": "Neon",
+    "KM": 32.734
+  },
+  {
+    "Manufacturer": "Plymouth",
+    "Model": "Breeze",
+    "KM": 5.24
+  },
+  {
+    "Manufacturer": "Plymouth",
+    "Model": "Voyager",
+    "KM": 24.155
+  },
+  {
+    "Manufacturer": "Plymouth",
+    "Model": "Prowler",
+    "KM": 1.872
+  },
+  {
+    "Manufacturer": "Pontiac",
+    "Model": "Sunfire",
+    "KM": 51.645
+  },
+  {
+    "Manufacturer": "Pontiac",
+    "Model": "Grand Am",
+    "KM": 131.097
+  },
+  {
+    "Manufacturer": "Pontiac",
+    "Model": "Firebird",
+    "KM": 19.911
+  },
+  {
+    "Manufacturer": "Pontiac",
+    "Model": "Grand Prix",
+    "KM": 92.364
+  },
+  {
+    "Manufacturer": "Pontiac",
+    "Model": "Bonneville",
+    "KM": 35.945
+  },
+  {
+    "Manufacturer": "Pontiac",
+    "Model": "Montana",
+    "KM": 39.572
+  },
+  {
+    "Manufacturer": "Porsche",
+    "Model": "Boxter",
+    "KM": 8.982
+  },
+  {
+    "Manufacturer": "Porsche",
+    "Model": "Carrera Coupe",
+    "KM": 1.28
+  },
+  {
+    "Manufacturer": "Porsche",
+    "Model": "Carrera Cabrio",
+    "KM": 1.866
+  },
+  {
+    "Manufacturer": "Saab",
+    "Model": "5-Sep",
+    "KM": 9.191
+  },
+  {
+    "Manufacturer": "Saab",
+    "Model": "3-Sep",
+    "KM": 12.115
+  },
+  {
+    "Manufacturer": "Saturn",
+    "Model": "SL",
+    "KM": 80.62
+  },
+  {
+    "Manufacturer": "Saturn",
+    "Model": "SC",
+    "KM": 24.546
+  },
+  {
+    "Manufacturer": "Saturn",
+    "Model": "SW",
+    "KM": 5.223
+  },
+  {
+    "Manufacturer": "Saturn",
+    "Model": "LW",
+    "KM": 8.472
+  },
+  {
+    "Manufacturer": "Saturn",
+    "Model": "LS",
+    "KM": 49.989
+  },
+  {
+    "Manufacturer": "Subaru",
+    "Model": "Outback",
+    "KM": 47.107
+  },
+  {
+    "Manufacturer": "Subaru",
+    "Model": "Forester",
+    "KM": 33.028
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Corolla",
+    "KM": 142.535
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Camry",
+    "KM": 247.994
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Avalon",
+    "KM": 63.849
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Celica",
+    "KM": 33.269
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Tacoma",
+    "KM": 84.087
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Sienna",
+    "KM": 65.119
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "RAV4",
+    "KM": 25.106
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "4Runner",
+    "KM": 68.411
+  },
+  {
+    "Manufacturer": "Toyota",
+    "Model": "Land Cruiser",
+    "KM": 9.835
+  },
+  {
+    "Manufacturer": "Volkswagen",
+    "Model": "Golf",
+    "KM": 9.761
+  },
+  {
+    "Manufacturer": "Volkswagen",
+    "Model": "Jetta",
+    "KM": 83.721
+  },
+  {
+    "Manufacturer": "Volkswagen",
+    "Model": "Passat",
+    "KM": 51.102
+  },
+  {
+    "Manufacturer": "Volkswagen",
+    "Model": "Cabrio",
+    "KM": 9.569
+  },
+  {
+    "Manufacturer": "Volkswagen",
+    "Model": "GTI",
+    "KM": 5.596
+  },
+  {
+    "Manufacturer": "Volkswagen",
+    "Model": "Beetle",
+    "KM": 49.463
+  },
+  {
+    "Manufacturer": "Volvo",
+    "Model": "S40",
+    "KM": 16.957
+  },
+  {
+    "Manufacturer": "Volvo",
+    "Model": "V40",
+    "KM": 3.545
+  },
+  {
+    "Manufacturer": "Volvo",
+    "Model": "S70",
+    "KM": 15.245
+  },
+  {
+    "Manufacturer": "Volvo",
+    "Model": "V70",
+    "KM": 17.531
+  },
+  {
+    "Manufacturer": "Volvo",
+    "Model": "C70",
+    "KM": 3.493
+  },
+  {
+    "Manufacturer": "Volvo",
+    "Model": "S80",
+    "KM": 18.969
+  }
+]
